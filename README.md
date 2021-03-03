@@ -1,4 +1,4 @@
-# pulsar_and_stars_notebook
+# pulsars_and_stars_notebook
 
 This project presents Jupyter notebook that contains classification of pulsars and stars according to certain parameters.
 
